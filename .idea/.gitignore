@@ -10,6 +10,7 @@
 *.iml
 misc.xml
 vcs.xml
+compiler.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
 
