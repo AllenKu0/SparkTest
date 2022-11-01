@@ -8,8 +8,8 @@
 /dataSources.local.xml
 
 *.iml
-.idea/
 misc.xml
+vcs.xml
 deploymentTargetDropDown.xml
 render.experimental.xml
 
